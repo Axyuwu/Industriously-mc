@@ -1,16 +1,19 @@
 [
-{
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
-  "authorList": ["CleanroomMC"],
-  "credits": "Authors of this project",
-  "logoFile": "",
-  "screenshots": [],
-  "dependencies": []
-}
+    {
+        "modid": "industriously",
+        "name": "Industriously",
+        "description": "Extensive tech mod going from small scale automation to space colonization!",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["Axy"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "requiredMods": [
+            "forgelin"
+        ],
+        "dependencies": []
+    }
 ]
